@@ -27,7 +27,7 @@ import allure
 #             assert False
 class Test_all():
     def test_setup(self):
-        assert 9==9
+        assert 10==10
 
 
 # if __name__ == '__main__':
